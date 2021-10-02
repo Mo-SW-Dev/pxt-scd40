@@ -1,0 +1,5 @@
+{
+	"SCD40.readCO2": "Liest den CO2 Wert",
+	"SCD40.readTemperature": "Liest die Temperatur",
+	"SCD40.readHumidity": "Liest die Luftfeuchtigkeit"
+}
